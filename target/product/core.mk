@@ -24,12 +24,14 @@ PRODUCT_PACKAGES += \
     BasicDreams \
     BlockedNumberProvider \
     BookmarkProvider \
+    Browser2 \
     Calendar \
     CalendarProvider \
     CaptivePortalLogin \
     CertInstaller \
     Contacts \
     DeskClock \
+    DocumentsUI \
     DownloadProviderUi \
     ExactCalculator \
     Exchange2 \
